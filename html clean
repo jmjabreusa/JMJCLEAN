@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JMJ Clean | Residential Cleaning in Orlando</title>
+  <meta name="description" content="Professional residential cleaning services in Orlando and surrounding areas. Reliable, trusted and affordable.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <img src="logo.svg" alt="JMJ Clean Logo" class="logo">
+  <h1>Residential Cleaning Services in Orlando & Surrounding Areas</h1>
+  <p>Reliable • Trusted • Affordable</p>
+  <div class="buttons">
+    <a href="#contact" class="btn primary">Get a Free Quote</a>
+    <a href="#contact" class="btn secondary">Schedule Cleaning</a>
+  </div>
+</header>
+
+<section class="section">
+  <h2>Our Services</h2>
+  <ul class="services">
+    <li>Regular House Cleaning</li>
+    <li>Deep Cleaning</li>
+    <li>Move-In / Move-Out Cleaning</li>
+    <li>Apartments & Condos</li>
+    <li>Airbnb & Vacation Homes</li>
+    <li>One-Time Cleaning</li>
+  </ul>
+</section>
+
+<section class="section light">
+  <h2>Why Choose JMJ Clean?</h2>
+  <p>
+    We are a professional residential cleaning company proudly serving Orlando and Central Florida.
+    Our team is trained, trustworthy, and committed to delivering spotless results every time.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Service Area</h2>
+  <p>Orlando • Kissimmee • Winter Park • Lake Nona • Altamonte Springs</p>
+</section>
+
+<section class="section light" id="contact">
+  <h2>Get Your Free Estimate</h2>
+  <form class="contact-form">
+    <input type="text" placeholder="Full Name" required>
+    <input type="email" placeholder="Email Address" required>
+    <input type="text" placeholder="Phone Number">
+    <textarea placeholder="Message"></textarea>
+    <button type="submit" class="btn primary">Request a Quote</button>
+  </form>
+</section>
+
+<footer>
+  <p>© 2026 JMJ Clean – Residential Cleaning Services</p>
+</footer>
+
+</body>
+</html>
